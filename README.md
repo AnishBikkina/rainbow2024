@@ -1,5 +1,5 @@
 # rainbow2024
-This is a poem about rainbows
+This is a poem about rainbows and clouds
 cloud
 red
 orange
@@ -9,3 +9,6 @@ blue
 indigo
 violet
 cloud
+pot of gold
+and a lepricon
+q
