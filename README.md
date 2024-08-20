@@ -11,3 +11,4 @@ violet
 cloud
 pot of gold
 and a lepricon
+and a clover
